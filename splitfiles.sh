@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# This script splits a directory to several directories.
+# This file is a part of splitfiles v1.0.0
+#
+# Split a directory to several directories.
 #
 # When you have a directory with thousands of files you can create
 # subdirectories and move files to them proportionally.
